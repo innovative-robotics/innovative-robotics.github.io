@@ -7,7 +7,7 @@ title: Home
 
 # Solving Global Problems through Robotic Innovations
 
-We are a lab dedicated to identifying and pursuing solutions for global problems through the development of new and novel robotic systems. We are always looking for people interested in pursuing robot development!
+We are a lab dedicated to identifying and pursuing solutions for global problems through the development of new and novel robotic systems. The lab is based at the New Jersey Institute of Technology in Newark, NJ. We are always looking for people interested in pursuing robot development!
 
 {%
   include link.html

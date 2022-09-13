@@ -2,10 +2,11 @@
 title: Home
 ---
 
-# Your Lab Slogan
+<span style="color:red">Now recruiting students!<\span>
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+# Solving Global Problems through Robotic Innovations
+
+We are a lab dedicated to identifying and pursuing solutions for global problems through the development of new and novel robotic systems. 
 
 {%
   include link.html

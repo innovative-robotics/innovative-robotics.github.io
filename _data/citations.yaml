@@ -9,7 +9,7 @@
   publisher: 2018 IEEE International Conference on Robotics and Automation (ICRA)
   date: '2018-05-01'
   link: https://doi.org/gqs2zm
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8449910/8460178/8463146/0278-fig-1-source-large.gif
   extra-links:
   - type: source
     link: https://ieeexplore-ieee-org.libdb.njit.edu:8443/search/searchresult.jsp?searchWithin=%22Publication%20Number%22:8449910&searchWithin=%22Document%20Title%22:FireAnt:%20A%20Modular%20Robot%20with%20Full-Body%20Continuous%20Docks
@@ -17,7 +17,7 @@
     link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8463146
   tags:
   - knowledge graphs
-  _cache: a9100df1efe0db076446c3de01e1998600e0c7f7e3b0b0a51768ad8c215f7a09
+  _cache: 1bb997ab1bb4b57d892909d91b0a814bcd01915b1abc48bedcd2b597bc9a1beb
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:

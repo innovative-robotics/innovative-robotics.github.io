@@ -1,8 +1,9 @@
 ---
 title: Home
 ---
-
+<div class="center>
 <span style="color:red">Now recruiting students!
+<\div>
 
 # Solving Global Problems through Robotic Innovations
 

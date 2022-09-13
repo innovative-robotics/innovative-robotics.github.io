@@ -13,7 +13,7 @@ We are a lab dedicated to identifying and pursuing solutions for global problems
   include link.html
   type="github"
   icon=""
-  text="See the template on GitHub"
+  text="See our lab's GitHub"
   link="swissler-lab/swissler-lab.github.io"
   style="button"
 %}

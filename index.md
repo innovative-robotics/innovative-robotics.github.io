@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<span style="color:red">Now recruiting students!<\span>
+<span style="color:red">Now recruiting students!
 
 # Solving Global Problems through Robotic Innovations
 

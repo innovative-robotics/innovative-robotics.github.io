@@ -1,21 +1,21 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Swissler Lab Homepage
+description: The homepage for Swissler Lab, a robotics research laboratory exploring the collective behaviors and self-assembly of robot swarms.
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: petras.swissler@njit.edu
+  google-scholar: Petras Swissler
+  github: swissler-lab
+  #twitter: YourLabHandle
+  #instagram: YourLabHandle
+  #youtube: YourLabChannel
 
 ### advanced settings
 

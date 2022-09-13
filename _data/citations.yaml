@@ -1,21 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: 10.1109/ICRA.2018.8463146
+  title: 'FireAnt: A Modular Robot with Full-Body Continuous Docks'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
+  - Petras Swissler
+  - Michael Rubenstein
+  publisher: 2018 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2018-05-01'
+  link: https://doi.org/gqs2zm
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - type: source
+    link: https://ieeexplore-ieee-org.libdb.njit.edu:8443/search/searchresult.jsp?searchWithin=%22Publication%20Number%22:8449910&searchWithin=%22Document%20Title%22:FireAnt:%20A%20Modular%20Robot%20with%20Full-Body%20Continuous%20Docks
+  - type: preprint
+    link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8463146
   tags:
   - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
+  _cache: a9100df1efe0db076446c3de01e1998600e0c7f7e3b0b0a51768ad8c215f7a09
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:

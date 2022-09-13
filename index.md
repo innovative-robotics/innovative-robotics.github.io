@@ -1,28 +1,28 @@
 ---
 title: Home
 ---
-<div class="center>
+
 <span style="color:red">Now recruiting students!
-<\div>
+
 
 # Solving Global Problems through Robotic Innovations
 
-We are a lab dedicated to identifying and pursuing solutions for global problems through the development of new and novel robotic systems. 
+We are a lab dedicated to identifying and pursuing solutions for global problems through the development of new and novel robotic systems. We are always looking for people interested in pursuing robot development!
 
 {%
   include link.html
   type="github"
   icon=""
   text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  link="swissler-lab/swissler-lab.github.io"
   style="button"
 %}
 {%
   include link.html
   type="docs"
   icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  text="Learn about NJIT"
+  link="https://mie.njit.edu/"
   style="button"
 %}
 {:.center}
@@ -36,8 +36,7 @@ We are a lab dedicated to identifying and pursuing solutions for global problems
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A big focus of our lab's work is the full-stack development of robotic systems. This includes everything from conceptualizing new robot mechanisms, to the building and design of robotic systems, to the development of algorithms that these new robots can use.
 
 {%
   include link.html
@@ -64,7 +63,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="Our Lab Space"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -81,7 +80,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+This is a brand-new lab, so it's a team of one right now. Hopefully you can help with this!
 
 {%
   include link.html
@@ -101,5 +101,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Hopefully this gives you a bit of a sense of what this lab is all about. Please reach out to us with any questions.

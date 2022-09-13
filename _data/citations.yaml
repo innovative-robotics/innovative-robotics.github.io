@@ -22,3 +22,25 @@
   - modular robots
   - robot mechanisms
   _cache: bf0034f3555a3709c9077e2b98614dab68fb936d3b072ec13316f0672fe9a9cb
+- id: 10.1109/IROS45743.2020.9341116
+  title: 'FireAnt3D: a 3D self-climbing robot towards non-latticed robotic self-assembly'
+  authors:
+  - Petras Swissler
+  - Michael Rubenstein
+  publisher: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2020-10-24'
+  link: https://doi.org/gqs2zn
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9340668/9340635/9341116/swiss1-p8-swiss-large.gif
+  extra-links:
+  - type: source
+    link: https://ieeexplore.ieee.org/abstract/document/9341116/figures
+    text: View the publication
+  - type: preprint
+    link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341116
+    text: View the paper
+  tags:
+  - self-assembly
+  - modular robots
+  - robot mechanisms
+  _cache: 8ce02c4b0678b62874e8f2402a61c330f53e03be044d87592ef04502cce478df

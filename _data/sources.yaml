@@ -7,6 +7,9 @@
     - type: preprint
       link: https://robotics.northwestern.edu/documents/publications/2021dars_pswissler.pdf
       text: View the paper
+    - type: preprint
+      link: https://www.youtube.com/watch?v=kOQ2upp8Y2g
+      text: View the presentation
     tags: 
       - self-assembly
       - robot algorithm
@@ -22,6 +25,12 @@
     - type: preprint
       link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341116
       text: View the paper
+    - type: preprint
+      link: https://www.youtube.com/watch?v=GKR5wpANZkU
+      text: View a quick video
+    - type: preprint
+      link: https://www.youtube.com/watch?v=J-hUORZm1nE
+      text: View the presentation
   tags:
     - self-assembly
     - modular robots
@@ -38,10 +47,11 @@
     - type: preprint
       link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8463146
       text: View the paper
+    - type: preprint
+      link: https://www.youtube.com/watch?v=zhM36h7zM1A
+      text: View the presentation
   tags:
     - self-assembly
     - modular robots
     - robot mechanisms
     - bio-inspired
-
-

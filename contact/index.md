@@ -44,14 +44,14 @@ Newark, New Jersey 07102
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo_njit.jpg"
+  image="images/photo_njit.JPG"
   caption="New Jersey Institute of Technology"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo_medept.jpg"
+  image="images/photo_medept.png"
   caption="Department of Mechanical and Industrial Engineering"
 %}
 {% endcapture %}

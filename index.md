@@ -71,7 +71,7 @@ The lab has access to state-of-the-art manufacturing equipment thanks to the exp
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tools.png"
   link="resources"
   title="Our Resources"
   flip=true

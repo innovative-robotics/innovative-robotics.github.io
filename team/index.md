@@ -46,7 +46,7 @@ We are looking for a new PhD student who is interested in developing novel robot
 - Willingness to learn new disciplines a must
 - Experience with mechatronic systems a plus
 - Experience programming a plus
-- Funded position
+- Fully-funded position
 
 {% include link.html type="external" link="https://www.njit.edu/admissions/how-apply-graduate-admissions" text="Apply Now" icon="" style="button" %}
 {:.center}

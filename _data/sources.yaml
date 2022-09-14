@@ -1,21 +1,3 @@
-- id: 10.1007/978-3-030-92790-5_28
-  image: https://robotics.northwestern.edu/images/news-events/news-articles/2021/petras_news_2021.png
-  extra-links:
-    - type: source
-    - link: https://link.springer.com/chapter/10.1007/978-3-030-92790-5_28
-    - text: View the publication
-    - type: preprint
-      link: https://robotics.northwestern.edu/documents/publications/2021dars_pswissler.pdf
-      text: View the paper
-    - type: preprint
-      link: https://www.youtube.com/watch?v=kOQ2upp8Y2g
-      text: View the presentation
-    tags: 
-      - self-assembly
-      - robot algorithm
-      - bio-inspired
-
-
 - id: 10.1109/IROS45743.2020.9341116
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9340668/9340635/9341116/swiss1-p8-swiss-large.gif
   extra-links:
@@ -55,3 +37,20 @@
     - modular robots
     - robot mechanisms
     - bio-inspired
+    
+- id: 10.1007/978-3-030-92790-5_28
+  image: https://robotics.northwestern.edu/images/news-events/news-articles/2021/petras_news_2021.png
+  extra-links:
+    - type: source
+    - link: https://link.springer.com/chapter/10.1007/978-3-030-92790-5_28
+    - text: View the publication
+    - type: preprint
+      link: https://robotics.northwestern.edu/documents/publications/2021dars_pswissler.pdf
+      text: View the paper
+    - type: preprint
+      link: https://www.youtube.com/watch?v=kOQ2upp8Y2g
+      text: View the presentation
+    tags: 
+      - self-assembly
+      - robot algorithm
+      - bio-inspired

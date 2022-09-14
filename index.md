@@ -94,7 +94,7 @@ This is a brand-new lab, so it's a team of one right now. Hopefully you can help
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text

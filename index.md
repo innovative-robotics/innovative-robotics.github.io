@@ -80,7 +80,7 @@ The lab has access to state-of-the-art manufacturing equipment thanks to the exp
 
 {% capture text %}
 
-This is a brand-new lab, so it's a team of one right now. Hopefully you can help with this!
+This is a brand-new lab, so we are actively looking to grow the team!
 
 {%
   include link.html

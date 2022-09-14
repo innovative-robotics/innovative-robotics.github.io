@@ -14,7 +14,7 @@ We are a lab dedicated to identifying and pursuing solutions for global problems
   type="github"
   icon=""
   text="See our lab's GitHub"
-  link="innovative-robotics/innovative-robotics.github.io"
+  link="innovative-robotics/"
   style="button"
 %}
 {%

@@ -1,27 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: 10.1109/ICRA.2018.8463146
-  title: 'FireAnt: A Modular Robot with Full-Body Continuous Docks'
-  authors:
-  - Petras Swissler
-  - Michael Rubenstein
-  publisher: 2018 IEEE International Conference on Robotics and Automation (ICRA)
-  date: '2018-05-01'
-  link: https://doi.org/gqs2zm
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8449910/8460178/8463146/0278-fig-1-source-large.gif
-  extra-links:
-  - type: source
-    link: https://ieeexplore-ieee-org.libdb.njit.edu:8443/search/searchresult.jsp?searchWithin=%22Publication%20Number%22:8449910&searchWithin=%22Document%20Title%22:FireAnt:%20A%20Modular%20Robot%20with%20Full-Body%20Continuous%20Docks
-    text: View the publication
-  - type: preprint
-    link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8463146
-    text: View the paper
-  tags:
-  - self-assembly
-  - modular robots
-  - robot mechanisms
-  _cache: bf0034f3555a3709c9077e2b98614dab68fb936d3b072ec13316f0672fe9a9cb
 - id: 10.1109/IROS45743.2020.9341116
   title: 'FireAnt3D: a 3D self-climbing robot towards non-latticed robotic self-assembly'
   authors:
@@ -39,8 +18,61 @@
   - type: preprint
     link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341116
     text: View the paper
+  - type: preprint
+    link: https://www.youtube.com/watch?v=GKR5wpANZkU
+    text: View a quick video
+  - type: preprint
+    link: https://www.youtube.com/watch?v=J-hUORZm1nE
+    text: View the presentation
   tags:
   - self-assembly
   - modular robots
   - robot mechanisms
-  _cache: 8ce02c4b0678b62874e8f2402a61c330f53e03be044d87592ef04502cce478df
+  - bio-inspired
+  _cache: 5de321b94ef985de5dc8e97380dbee16c2fd8543135dba49c8503fa44a897c98
+- id: 10.1109/ICRA.2018.8463146
+  title: 'FireAnt: A Modular Robot with Full-Body Continuous Docks'
+  authors:
+  - Petras Swissler
+  - Michael Rubenstein
+  publisher: 2018 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2018-05-01'
+  link: https://doi.org/gqs2zm
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8449910/8460178/8463146/0278-fig-1-source-large.gif
+  extra-links:
+  - type: source
+    link: https://ieeexplore-ieee-org.libdb.njit.edu:8443/search/searchresult.jsp?searchWithin=%22Publication%20Number%22:8449910&searchWithin=%22Document%20Title%22:FireAnt:%20A%20Modular%20Robot%20with%20Full-Body%20Continuous%20Docks
+    text: View the publication
+  - type: preprint
+    link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8463146
+    text: View the paper
+  - type: preprint
+    link: https://www.youtube.com/watch?v=zhM36h7zM1A
+    text: View the presentation
+  tags:
+  - self-assembly
+  - modular robots
+  - robot mechanisms
+  - bio-inspired
+  _cache: 1a124817070e528b2e072532e512a96085cec9140b5974ab712fef72e58d44e5
+- id: 10.1007/978-3-030-92790-5_28
+  title: "ReactiveBuild: Environment-Adaptive Self-Assembly of\_Amorphous Structures"
+  authors:
+  - Petras Swissler
+  - Michael Rubenstein
+  publisher: Distributed Autonomous Robotic Systems
+  date: '2022-01-01'
+  link: https://doi.org/gqs78j
+  image: https://www.researchgate.net/profile/Petras-Swissler/publication/357549605/figure/fig4/AS:1112174135119876@1642174385766/Tower-growth-using-F-10-B-3-J-5_W640.jpg
+  extra-links:
+  - type: preprint
+    link: https://robotics.northwestern.edu/documents/publications/2021dars_pswissler.pdf
+    text: View the paper
+  - type: preprint
+    link: https://www.youtube.com/watch?v=kOQ2upp8Y2g
+    text: View the presentation
+  tags:
+  - self-assembly
+  - robot algorithm
+  - bio-inspired
+  _cache: bce64284c6949ec8ca43980927745e710e056ce74fa8c31ed3a70e9fbeb63888

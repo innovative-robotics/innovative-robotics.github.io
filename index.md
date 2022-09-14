@@ -50,7 +50,7 @@ A big focus of our lab's work is the full-stack development of robotic systems. 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/wrench.png"
   link="research"
   title="Our Research"
   text=text
@@ -94,7 +94,7 @@ This is a brand-new lab, so it's a team of one right now. Hopefully you can help
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text

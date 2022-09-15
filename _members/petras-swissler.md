@@ -1,7 +1,7 @@
 ---
 name: Dr. Petras Swissler
 image: images/pswissler.jpg
-description: Robotics Researcher
+description: Principal Investigator and Robotics Researcher
 role: pi
 links:
   orcid: 0000-0002-8528-4449

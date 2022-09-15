@@ -1,47 +1,18 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: NJIT Makerspace
+  subtitle: a manufacturing facility
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/photo_makerspace.jpg
+  link: https://www.njitmakerspace.com/
+  description: As part of the NJIT community, we have access to the NJIT makerspace, a 10,000 square-foot rapid prototyping and collaboration facility packed with sophisticated and state-of-the-art manufacturing facilities.
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Lab space
+  subtitle: where members of the lab can do their work
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/under_construction.png
+  link: https://innovative-robotics.github.io
+  description: Still under construction, this ~700 sqft facility will house soldering benches, 3d printers, and workspaces for all students interested in working in our lab.
   tags:
-    - resource
+    - facility
 
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software

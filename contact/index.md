@@ -37,9 +37,7 @@ We are located on the 3rd floor of the [Mechanical Engineering Building](https:/
 New Jersey Institute of Technology
 Mechanical and Industrial Engineering Center
 Suite 204
-
 University Heights
-
 Newark, New Jersey 07102
 {:.center}
 

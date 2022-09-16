@@ -1,5 +1,5 @@
 ---
-name: Dr. Petras Swissler
+name: Petras Swissler
 image: images/pswissler.jpg
 description: Principal Investigator
 role: pi

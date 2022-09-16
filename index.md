@@ -2,7 +2,8 @@
 title: Home
 ---
 
-<h1 style="text-align:center;">{% include link.html type="email" icon="" text="Now recruiting students!" tooltip="" link="petras.swissler@njit.edu" style="button"%}{:.center}<\h1>
+<h1 style="text-align:center;">{% include link.html type="email" icon="" text="Now recruiting students!" tooltip="" link="petras.swissler@njit.edu" style="button"%}
+  
 
 # Solving Global Problems through Robotic Innovations
 

@@ -51,7 +51,7 @@ Newark, New Jersey 07102
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo_medept.png"
+  image="images/photo_medept.jpg"
   caption="Department of Mechanical and Industrial Engineering"
 %}
 {% endcapture %}

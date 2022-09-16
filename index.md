@@ -4,7 +4,7 @@ title: Home
 
 # Solving Global Problems through Robotic Innovations
 
-{% include link.html type="email" icon="" text="Now recruiting students!" tooltip="" link="petras.swissler@njit.edu" style="button" %}
+{% include link.html type="email" icon="" text="Now recruiting students!" tooltip="" link="petras.swissler@njit.edu" style="button" color="red"%}{:.center}
 
 We are a lab dedicated to identifying and pursuing solutions for global problems through the development of new and novel robotic systems. The lab is based at the New Jersey Institute of Technology in Newark, NJ. We are always looking for people interested in pursuing robot development!
 

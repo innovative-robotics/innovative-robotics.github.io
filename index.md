@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<span style="color:red">Now recruiting students!
+{% include link.html type="email" icon="" text="Now recruiting students!" tooltip="" link="petras.swissler@njit.edu" style="button" %}
 
 
 # Solving Global Problems through Robotic Innovations
@@ -101,3 +101,5 @@ This is a brand-new lab, so we are actively looking to grow the team!
 %}
 
 Hopefully this gives you a bit of a sense of what this lab is all about. Please reach out to us with any questions.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GKR5wpANZkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

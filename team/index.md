@@ -62,7 +62,11 @@ Our work is made possible by funding from:
   include gallery.html
   style="square"
 
-  image1="images/logo_njit.png"
+  image3="images/placeholder.svg"
+
+  image2="images/logo_njit.png"
   link1="https://njit.edu"
   tooltip1="New Jersey Institute of Technology"
+  
+  image3="images/placeholder.svg"
 %}

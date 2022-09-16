@@ -29,8 +29,6 @@ We are a lab dedicated to identifying and pursuing solutions for global problems
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
-
 {% include section.html %}
 
 # Highlights

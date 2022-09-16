@@ -62,7 +62,7 @@ Our work is made possible by funding from:
   include gallery.html
   style="square"
 
-  image3="images/placeholder.svg"
+  image1="images/placeholder.svg"
 
   image2="images/logo_njit.png"
   link1="https://njit.edu"

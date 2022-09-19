@@ -32,6 +32,14 @@ We are a lab dedicated to identifying and pursuing solutions for global problems
 
 {% include section.html %}
 
+# Examples of what we work on
+
+{% capture col1 %} {% <iframe width="560" height="315" src="https://www.youtube.com/embed/GKR5wpANZkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> %} {% endcapture %} {% capture col2 %} {% <iframe width="560" height="315" src="https://www.youtube.com/embed/Ln4GuFyTY0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> %} {% endcapture %} {% include two-col.html col1=col1 col2=col2 %}
+
+
+
+
+
 # Highlights
 
 {% capture text %}
@@ -99,8 +107,4 @@ This is a brand-new lab, so we are actively looking to grow the team!
   text=text
 %}
 
-Hopefully this gives you a bit of a sense of what this lab is all about. Below are a few videos showing projects that members of the lab have worked on. Please reach out to us with any questions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GKR5wpANZkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ln4GuFyTY0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

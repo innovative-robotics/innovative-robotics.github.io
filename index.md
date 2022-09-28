@@ -7,7 +7,7 @@ title: Home
   
 # Design cool robots to solve real-world problems
 
-This is a lab based at NJIT that focusses on developing real, novel robotic systems.
+This is an academic lab based at NJIT that focusses on developing real, novel robotic systems.
 Key to developing these robots is the question of "so what." Why develop robots that are able to build bridges out of their own bodies? Why look at ways that robots can adapt their configuration based on unexpected environments? 
 What it always comes back to is the fact that we want to apply these robots in real life: we want these robots to be useful.
 Like much of academic research, the work we do often reaches beyond what current technology makes practical so that when other technologies catch up we will have a blueprint ready to address these real-world issues.

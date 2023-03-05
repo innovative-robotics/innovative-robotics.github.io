@@ -5,7 +5,7 @@ title: Home
 {% include link.html type="email" icon="" text="Now recruiting students!" tooltip="" link="petras.swissler@njit.edu" style="button"%}
 {:.center}
   
-# Design cool robots to solve real-world problems
+# Making cool robots to solve real-world problems
 
 This is an academic lab based at NJIT that focusses on developing real, novel robotic systems.
 Key to developing these robots is the question of "so what." Why develop robots that are able to build bridges out of their own bodies? Why look at ways that robots can adapt their configuration based on unexpected environments? 

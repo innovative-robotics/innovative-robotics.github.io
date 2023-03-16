@@ -2,7 +2,7 @@
 title: Team
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: About the team
 ---
 
 # <i class="fas fa-users"></i>Team
@@ -37,8 +37,17 @@ Interested in robotics? Want to do research? Email petras.swissler@njit.edu
 
 {% include section.html %}
 
-## Join
+## Open Positions
 
+### Student Researcher
+
+I am always open to giving students the opportunity to engage with robotics research. If you are an undergraduate or Master's student interested in robotics feel free to reach out
+
+- Willingness to learn new disciplines a must
+- Experience with mechatronic systems a plus
+- Experience programming a plus
+
+<!---
 #### PhD Student, Mechanical Engineering
 
 We are looking for a new PhD student who is interested in developing novel robot hardware to explore new challenges.
@@ -50,6 +59,7 @@ We are looking for a new PhD student who is interested in developing novel robot
 
 {% include link.html type="external" link="https://www.njit.edu/admissions/how-apply-graduate-admissions" text="Apply Now" icon="" style="button" %}
 {:.center}
+--->
 
 {% include section.html %}
 

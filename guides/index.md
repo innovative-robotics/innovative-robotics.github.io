@@ -1,5 +1,5 @@
 ---
-title: Onboarding
+title: Guides
 nav:
   order: 4
   tooltip: Resources for getting started

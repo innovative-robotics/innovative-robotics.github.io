@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{% include link.html type="email" icon="" text="Now recruiting students!" tooltip="" link="petras.swissler@njit.edu" style="button"%}
+{% include link.html type="email" icon="" text="Feel free to reach out!" tooltip="" link="petras.swissler@njit.edu" style="button"%}
 {:.center}
   
 # Making cool robots to solve real-world problems

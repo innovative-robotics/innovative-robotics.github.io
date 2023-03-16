@@ -30,6 +30,14 @@ If this sounds interesting to you and you'd like to work in this lab, email petr
   link="https://mie.njit.edu/"
   style="button"
 %}
+{%
+  include link.html
+  type="docs"
+  icon=""
+  text="Lab Knowledge Base"
+  link="https://swissler-innovative-robotics-lab.gitbook.io/lab-onboarding/"
+  style="button"
+%}
 {:.center}
 
 {% include section.html full=true %}

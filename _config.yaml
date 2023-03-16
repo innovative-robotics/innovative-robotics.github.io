@@ -4,8 +4,8 @@
 title: Swissler Innovative Robotics Lab
 description: The homepage for the Swissler Innovative Robotics Lab, a robotics research laboratory, based in the New Jersey Institute of Technology, exploring the collective behaviors and self-assembly of robot swarms.
 logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+header: images/banner.jpg
+footer: images/banner.jpg
 baseurl: ""
 
 # site social media and other links

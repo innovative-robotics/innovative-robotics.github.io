@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# <i class="fas fa-tools"></i>Tools
+# <i class="fas fa-tools"></i>Lab Resources
 
 This lab's greatest assets are the people who bring robot concepts into reality. Every effort is made to ensure that students and researchers have the tools they need to make that happen.
 

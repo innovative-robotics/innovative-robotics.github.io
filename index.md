@@ -66,7 +66,7 @@ A big focus of our lab's work is the full-stack development of robotic systems. 
 %}
 
 {% capture text %}
-The lab has access to state-of-the-art manufacturing equipment thanks to the expansive NJIT maker space. We are also in the process of building up our own lab space, which we expect to have up and running by late 2022.
+The lab has access to state-of-the-art manufacturing equipment thanks to the expansive NJIT maker space. We are also in the process of building up our own lab space, which we expect to have up and running by summer 2023.
 
 {%
   include link.html

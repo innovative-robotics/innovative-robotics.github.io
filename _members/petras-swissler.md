@@ -1,6 +1,6 @@
 ---
 name: Petras Swissler
-image: images/pswissler.jpg
+image: images/members/pswissler.jpg
 description: Principal Investigator
 role: pi
 links:

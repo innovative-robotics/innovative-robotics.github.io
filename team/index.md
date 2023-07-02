@@ -27,7 +27,13 @@ Interested in robotics? Want to do research? Email petras.swissler@njit.edu
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: master"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergraduate"
 %}
 {:.center}
 
@@ -41,7 +47,7 @@ Interested in robotics? Want to do research? Email petras.swissler@njit.edu
 
 ### Student Researcher
 
-I am always open to giving students the opportunity to engage with robotics research. If you are an undergraduate or Master's student interested in robotics feel free to reach out
+I am always open to giving students the opportunity to engage with robotics research. If you are an undergraduate or Master's student interested in robotics feel free to reach out.
 
 - Willingness to learn new disciplines a must
 - Experience with mechatronic systems a plus

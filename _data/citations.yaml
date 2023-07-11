@@ -1,6 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 10.1109/LRA.2023.3290796
+  title: 'FireAntV3: A Modular Self-Reconfigurable Robot Toward Free-Form Self-Assembly
+    Using Attach-Anywhere Continuous Docks'
+  authors:
+  - Petras Swissler
+  - Michael Rubenstein
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-08-01'
+  link: https://doi.org/gsf9ns
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7083369/10153452/10168247/swiss1-3290796-large.gif
+  extra-links:
+  - type: source
+    link: https://ieeexplore.ieee.org/abstract/document/10168247
+    text: View the publication
+  - type: preprint
+    link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10168247
+    text: View the paper
+  - type: preprint
+    link: https://youtu.be/6MtVj5FafSU
+    text: View a quick video
+  tags:
+  - self-assembly
+  - modular robots
+  - bio-inspired
+  _cache: 0e86c7cbba9a6c71eb653481aed3fc5a16f1fd512b47eb41c421ee400b23a7b0
 - id: 10.1109/IROS45743.2020.9341116
   title: 'FireAnt3D: a 3D self-climbing robot towards non-latticed robotic self-assembly'
   authors:

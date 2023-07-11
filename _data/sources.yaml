@@ -1,3 +1,21 @@
+- id: 10.1109/LRA.2023.3290796
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7083369/10153452/10168247/swiss1-3290796-large.gif
+  extra-links:
+    - type: source
+      link: https://ieeexplore.ieee.org/abstract/document/10168247
+      text: View the publication
+    - type: preprint
+      link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10168247
+      text: View the paper
+    - type: preprint
+      link: https://youtu.be/6MtVj5FafSU
+      text: View a quick video
+  tags:
+    - self-assembly
+    - modular robots
+    - bio-inspired
+
+
 - id: 10.1109/IROS45743.2020.9341116
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9340668/9340635/9341116/swiss1-p8-swiss-large.gif
   extra-links:

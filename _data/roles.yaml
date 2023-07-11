@@ -7,7 +7,7 @@ postdoc:
   text: Postdoctoral Researcher
 
 phd:
-  icon: fas fa-graduation-cap
+  icon: fas fa-user-graduate
   text: PhD Student
 
 master:
@@ -28,4 +28,4 @@ mascot:
   
 alumnus:
   icon: fas fa-graduation-cap
-  text: Alumnus
+  text: Former Lab Member

@@ -8,6 +8,7 @@ nav:
 # <i class="fas fa-microscope"></i>Research
 
 Below are listed the publications of our lab members.
+{:.center}
 
 {% include section.html %}
 

@@ -1,6 +1,6 @@
 ---
 name: Raaid Kabir
-image: images/members/placeholder.png
+image: images/members/rkabir.jpg
 description: Undergraduate Researcher 
 role: undergrad
 links:

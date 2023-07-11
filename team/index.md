@@ -33,7 +33,13 @@ Interested in robotics? Want to do research? Email petras.swissler@njit.edu
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergraduate"
+  filters="role: undergrad"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: highschool"
 %}
 {:.center}
 

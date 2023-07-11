@@ -18,6 +18,10 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
+undergrad:
+  icon: fas fa-user-graduate
+  text: High School Student
+
 programmer:
   icon: fas fa-code
   text: Programmer

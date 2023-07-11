@@ -1,8 +1,8 @@
 ---
 name: Raaid Kabir
-image: raaid_kabir.jpg
+image: images/members/placeholder.png
 description: Undergraduate Researcher 
-role: Undergrad
+role: undergrad
 links:
   email: rk798@njit.edu
   github: https://github.com/raaidkabir

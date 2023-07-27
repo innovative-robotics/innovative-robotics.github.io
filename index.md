@@ -7,12 +7,13 @@ title: Home
   
 # Making cool robots to solve real-world problems
 
-This is an academic lab based at NJIT that focusses on developing real, novel robotic systems.
+The IRL is an academic research laboratory at at NJIT that focusses on developing real-world, novel robotic systems.
 Key to developing these robots is the question of "so what." Why develop robots that are able to build bridges out of their own bodies? Why look at ways that robots can adapt their configuration based on unexpected environments? 
-What it always comes back to is the fact that we want to apply these robots in real life: we want these robots to be useful.
-Like much of academic research, the work we do often reaches beyond what current technology makes practical so that when other technologies catch up we will have a blueprint ready to address these real-world issues.
+Ultimately: we want these robots to to improve the lives of people across the world.
+Our work aims to establish a blueprint for how robots can be used to to address these real-world issues.
 
-If this sounds interesting to you and you'd like to work in this lab, email petras.swissler@njit.edu or click the button above. The New Jersey Institute of Technology is an R1 public research university that's located in about 30 minutes by train from Manhattan and provides ample opportunities for students to apply themselves and explore robotics.
+If this sounds interesting to you and you'd like to work in this lab, email petras.swissler@njit.edu or click the button above. 
+The New Jersey Institute of Technology is an R1 public research university located about 30 minutes by train from Manhattan and provides ample opportunities for students to apply themselves and explore robotics.
 
 {%
   include link.html
@@ -46,14 +47,14 @@ If this sounds interesting to you and you'd like to work in this lab, email petr
 
 # Examples of what we work on
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GKR5wpANZkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1dp0QNc9C0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ln4GuFyTY0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Highlights
 
 {% capture text %}
-A big focus of our lab's work is the full-stack development of robotic systems. This includes everything from conceptualizing new robot mechanisms, to the building and design of robotic systems, to the development of algorithms that these new robots can use.
+Our focus is the full-stack development of robotic systems. This includes everything from conceptualizing new robot mechanisms, to the building and design of robotic systems, to the development of algorithms that these new robots can use.
 
 {%
   include link.html
@@ -74,7 +75,8 @@ A big focus of our lab's work is the full-stack development of robotic systems. 
 %}
 
 {% capture text %}
-The lab has access to state-of-the-art manufacturing equipment thanks to the expansive NJIT maker space. We are also in the process of building up our own lab space, which we expect to have up and running by summer 2023.
+The lab has access to state-of-the-art manufacturing equipment thanks to the expansive NJIT maker space. 
+We are also in the process of building up our own lab space, which we expect to have up and running by summer 2023.
 
 {%
   include link.html

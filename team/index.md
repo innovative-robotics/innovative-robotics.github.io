@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-nterested in robotics? Want to do research? Email petras.swissler@njit.edu
+Interested in robotics? Want to do research? Email petras.swissler@njit.edu
 {:.center}
 
 {% include section.html %}

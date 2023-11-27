@@ -75,8 +75,8 @@ Our focus is the full-stack development of robotic systems. This includes everyt
 %}
 
 {% capture text %}
+The lab has a dedicated room full of workbenches, 3D printers, and mechatronics equipment. Swing by ME333K if you want to check it out!
 The lab has access to state-of-the-art manufacturing equipment thanks to the expansive NJIT maker space. 
-We are also in the process of building up our own lab space, which we expect to have up and running by summer 2023.
 
 {%
   include link.html
@@ -99,7 +99,7 @@ We are also in the process of building up our own lab space, which we expect to 
 
 {% capture text %}
 
-This is a brand-new lab, so we are actively looking to grow the team!
+New students always welcome!
 
 {%
   include link.html

@@ -1,5 +1,14 @@
+- title: Lab space
+  subtitle: Where members of the lab can do their work
+  group: featured
+  image: images/lab_image.jpg
+  link: https://innovative-robotics.github.io
+  description: Still under construction, this ~700 sqft facility will house soldering benches, 3d printers, and workspaces for all students interested in working in our lab.
+  tags:
+    - facility
+
 - title: NJIT Makerspace
-  subtitle: a manufacturing facility
+  subtitle: An advanced manufacturing facility
   group: featured
   image: images/photo_makerspace.jpg
   link: https://www.njitmakerspace.com/
@@ -7,12 +16,4 @@
   tags:
     - resource
 
-- title: Lab space
-  subtitle: where members of the lab can do their work
-  group: featured
-  image: images/placeholder.svg
-  link: https://innovative-robotics.github.io
-  description: Still under construction, this ~700 sqft facility will house soldering benches, 3d printers, and workspaces for all students interested in working in our lab.
-  tags:
-    - facility
 

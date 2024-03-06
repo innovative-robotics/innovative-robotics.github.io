@@ -86,10 +86,11 @@ Our work is made possible by funding from:
   style="square"
 
   image1="images/placeholder.svg"
+  link1="https://www.nsf.gov/"
+  tooltip1="National Science Foundation"
 
-  image2="images/logo_njit.png"
-  link1="https://njit.edu"
-  tooltip1="New Jersey Institute of Technology"
+  image2="images/NSF_Official_logo_High_Res_1200ppi.png"
+  link2="https://njit.edu"
+  tooltip2="New Jersey Institute of Technology"
   
-  image3="images/placeholder.svg"
 %}

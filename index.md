@@ -118,3 +118,8 @@ New students always welcome!
   title="Our Team"
   text=text
 %}
+
+# Media and press announcements regarding work in this lab
+
+NSF Press Release: ["NSF invests nearly $10M to develop transformative bio-inspired solutions" ](https://new.nsf.gov/funding/initiatives/convergence-accelerator/updates/nsf-invests-develop-transformative-bio-inspired-solutions)
+

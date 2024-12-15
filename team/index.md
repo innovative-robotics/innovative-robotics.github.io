@@ -22,6 +22,12 @@ Interested in robotics? Want to do research? Email petras.swissler@njit.edu
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd"
 %}
 {%
@@ -47,7 +53,7 @@ Interested in robotics? Want to do research? Email petras.swissler@njit.edu
 {% include section.html background="images/banner.jpg" dark=true%}
 
 ---
-
+<!---
 {% include section.html %}
 
 ## Open Positions
@@ -59,6 +65,7 @@ I am always open to giving students the opportunity to engage with robotics rese
 - Willingness to learn new disciplines a must
 - Experience with mechatronic systems a plus
 - Experience programming a plus
+--->
 
 <!---
 #### PhD Student, Mechanical Engineering
@@ -85,11 +92,11 @@ Our work is made possible by funding from:
   include gallery.html
   style="square"
 
-  image1="images/placeholder.svg"
+  image1="images/NSF_Official_logo_High_Res_1200ppi.png"
   link1="https://www.nsf.gov/"
   tooltip1="National Science Foundation"
 
-  image2="images/NSF_Official_logo_High_Res_1200ppi.png"
+  image2="images/logo_njit.png"
   link2="https://njit.edu"
   tooltip2="New Jersey Institute of Technology"
   

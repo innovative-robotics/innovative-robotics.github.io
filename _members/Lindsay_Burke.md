@@ -5,4 +5,4 @@ description: Undergraduate Researcher
 role: undergrad 
 ---
 
-Lindsay is a 1st year Undergraduate in the department of Computer Science at the New Jersey Institute of Technology.
+Lindsay is a 3rd year Undergraduate in the department of Computer Science at the New Jersey Institute of Technology.

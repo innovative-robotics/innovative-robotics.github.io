@@ -1,8 +1,8 @@
 ---
 name: Roberto Torres
 image: images/members/placeholder.png
-description: Undergraduate Researcher 
-role: undergrad 
+description: PhD Student
+role: phd 
 ---
 
-Roberto is a 4th year Undergraduate in the department of Mechanical and Industrial Engineering at the New Jersey Institute of Technology.
+Roberto is a 1st year PhD student who has been working in the lab since he was an undergraduate student in the NJIT robotics team.

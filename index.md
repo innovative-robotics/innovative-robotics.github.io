@@ -41,6 +41,28 @@ The New Jersey Institute of Technology is an R1 public research university locat
 %}
 {:.center}
 
+{% capture text %}
+
+The core of the lab includes (left to right) our Postdoc Myungjin Jung, Ph.D. students Roberto Torres and Arman Rashidioun, as well as Dr. Swissler. We are always welcoming of new students, just reach out to one of our members or attend one of our swarm paper discussions.
+
+{%
+  include link.html
+  link="team"
+  text="Meet our team"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/group.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
+
 {% include section.html full=true %}
 
 {% include section.html %}
@@ -97,27 +119,7 @@ The lab has access to state-of-the-art manufacturing equipment thanks to the exp
   text=text
 %}
 
-{% capture text %}
 
-New students always welcome!
-
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/team.png"
-  link="team"
-  title="Our Team"
-  text=text
-%}
 
 # Media and press announcements regarding work in this lab
 

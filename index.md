@@ -57,7 +57,7 @@ The core of the lab includes (left to right) our Postdoc Myungjin Jung, Ph.D. st
 
 {%
   include feature.html
-  image="images/group.jpg"
+  image="images/Group.jpg"
   link="team"
   title="Our Team"
   text=text

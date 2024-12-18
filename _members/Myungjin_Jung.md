@@ -5,4 +5,4 @@ description: Postdoctoral Scholar
 role: postdoc
 ---
 
-Myungjin is a Postdoctoral Scholar. He recieved his PhD from Ohio State University.
+Myungjin is a Postdoctoral Scholar. He received his PhD from Ohio State University.
